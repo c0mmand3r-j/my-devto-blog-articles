@@ -1,3 +1,5 @@
+## Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences
+
 In the world of web development, the terms "front end" and "back end" have long been used to describe the two primary aspects of creating a website or web application. However, in recent years, a new term has emerged: the "full stack" developer. Despite this trend, there remains some confusion over what each role entails and whether or not they are becoming one.
 
 
